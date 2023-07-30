@@ -17,7 +17,7 @@ I love my [family][], [LLVM][], inline skating 🛼, bowling 🎳, carting 🏎,
 
 ## Occupation
 
-Currently I'm looking for interesting job now with 🌎 helpful interesting projects, mostly about mesh networks, distributed systems, compilers & static analyzers, and formal verification off-course.
+Currently I'm looking for interesting job now with 🌎 helpful interesting projects, mostly about mesh networks, distributed systems, compilers & static analyzers, and formal verification certainly.
 
 [CV][] with [experience][linkedin-experience].
 
