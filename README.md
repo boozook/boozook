@@ -22,6 +22,16 @@ Currently I'm looking for interesting job now with 🌎 helpful interesting proj
 [CV][] with [experience][linkedin-experience].
 
 
+## Support
+
+I work on open-source projects almost full-time and I need your support.
+
+Ways to support me:
+- Ethereum
+  - [boozook.eth](ethereum:boozook.eth) ([info](https://etherscan.io/name-lookup-search?id=boozook.eth))
+  - [0x2e094d41C3405788E3596D9123373CC82b352C2e](ethereum://0x2e094d41C3405788E3596D9123373CC82b352C2e)
+- Cash
+
 [LLVM]: //llvm.org
 [family]: //koz.world
 [CV]: https://www.linkedin.com/in/a-koz
