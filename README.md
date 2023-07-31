@@ -26,11 +26,15 @@ Currently I'm looking for interesting job now with 🌎 helpful interesting proj
 
 I work on open-source projects almost full-time and I need your support.
 
-Ways to support me:
+Ways to encourage me:
 - Ethereum
   - [boozook.eth](ethereum:boozook.eth) ([info](https://etherscan.io/name-lookup-search?id=boozook.eth))
   - [0x2e094d41C3405788E3596D9123373CC82b352C2e](ethereum://0x2e094d41C3405788E3596D9123373CC82b352C2e)
 - Cash
+- Do some contribution in code
+
+Feel free to contact me any time.
+
 
 [LLVM]: //llvm.org
 [family]: //koz.world
