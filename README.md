@@ -34,6 +34,7 @@ Ways to encourage me:
 - Do some contribution in code
 
 Feel free to contact me any time.
+<a rel="me" href="https://mastodon.gamedev.place/@boozook">Mastodon</a>, [Matrix](https://matrix.to/#/@fzzr:matrix.org) or email.
 
 
 [LLVM]: //llvm.org
