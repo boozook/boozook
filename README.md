@@ -8,7 +8,7 @@ Creating software & games since 2000 and having fun as a software engineer, cons
 
 Previously I've made various systems, software as well as games using following languages: Rust, Haxe, Python, ObjC++, Swift and Solidity, but these are just instruments - my job is a work on logic, algorithms, graphics and data using any languages.
 
-During past years I was mostly writing decentralized systems mostly in Rust _(yet before the first version 🦀)_.
+During past years I was mostly writing decentralized systems mostly in Rust _(Yeah, I've started using it even before the release of first stable version of 🦀 compiler)_.
 
 As a hobby I'm creating cross-platform remakes of great wonderful old games.
 
