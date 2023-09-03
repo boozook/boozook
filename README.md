@@ -30,6 +30,7 @@ Ways to encourage me:
 - Ethereum
   - [boozook.eth](ethereum:boozook.eth) ([info](https://etherscan.io/name-lookup-search?id=boozook.eth))
   - [0x2e094d41C3405788E3596D9123373CC82b352C2e](ethereum://0x2e094d41C3405788E3596D9123373CC82b352C2e)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/fzzr)
 - Cash
 - Do some contribution in code
 
